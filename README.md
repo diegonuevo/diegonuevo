@@ -1,0 +1,5 @@
+- 👋 Hi, I’m **Diego Nuevo** (@diegonuevo)
+- 👀 I’m interested in NFV, Cloud Native Network Function, Private & Public (Telco) Clouds (Openstack, VMware, AWS, Azure...), Kubernetes, (Net)DevOps, CI/CD tools
+- 🌱 I’m currently learning about 5G architectures, O-RAN, Cloud, Kubernetes, Service Mesh and much more
+- 🏝️ I find writing code very relaxing
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/diegonuevo/) or [Twitter](https://twitter.com/diegonuevo_v6)
